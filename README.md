@@ -117,4 +117,3 @@ Each entity in the system is modeled as a **class**, applying core OOP concepts 
 
 ---
 
-## 📂 Project Structure (Example)
